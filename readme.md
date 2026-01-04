@@ -2,9 +2,6 @@
 
 **Production-ready RAG system** with local inference, durable workflows, and full observability.
 
-[
-[
-
 ## ✨ Features
 - **Qwen3:1.7B** - Lightweight, multilingual LLM via Ollama
 - **GE-M3:567M** - Open-source embeddings (384-dim)
@@ -115,4 +112,5 @@ MIT License - Use freely in commercial projects! [LICENSE](LICENSE)
 3. Follow PEP8: `black .`
 
 **⭐ Star if useful!** Questions? [Open issue](https://github.com/SHREE/rag-project/issues)
+
 
