@@ -24,7 +24,7 @@ PDF → LlamaIndex (chunk) → GE-M3 Embed → Qdrant → Inngest RAG → Qwen3 
 
 1. **Clone & Install**
 ```bash
-git clone https://github.com/SHREE/rag-project.git
+git clone 
 cd rag-project
 conda create -n rag python=3.10
 conda activate rag
@@ -115,3 +115,4 @@ MIT License - Use freely in commercial projects! [LICENSE](LICENSE)
 3. Follow PEP8: `black .`
 
 **⭐ Star if useful!** Questions? [Open issue](https://github.com/SHREE/rag-project/issues)
+
