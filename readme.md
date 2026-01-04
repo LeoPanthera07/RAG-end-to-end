@@ -103,14 +103,6 @@ EMBEDDING_DIM=384
 - **Scalable**: FastAPI async + Qdrant clustering-ready
 - **Modern**: TypeScript-level DX with Pydantic + Inngest types
 
-## 📄 License
-MIT License - Use freely in commercial projects! [LICENSE](LICENSE)
 
-## 🙌 Contributing
-1. Fork & PR
-2. Update tests: `pytest`
-3. Follow PEP8: `black .`
-
-**⭐ Star if useful!** Questions? [Open issue](https://github.com/SHREE/rag-project/issues)
 
 
